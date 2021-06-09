@@ -17,7 +17,8 @@ public class OlaMundo {
 		JOptionPane.showMessageDialog(null, "Meu nome é: "+nome);
 		JOptionPane.showMessageDialog(null, "Minha idade é: "+idade);
 		JOptionPane.showMessageDialog(null, "Meu salário é: "+salario);
-")		System.out.println("Boa tarde!");
+		System.out.println("Boa tarde!");
+		System.out.println("Boa noite!");			
 		sc.close();
 	}
 }
